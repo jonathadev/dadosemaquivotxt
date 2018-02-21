@@ -1,0 +1,43 @@
+Dados das locadoras: nome_Locadora preco_Locacao_regurar_Semana, preco_Locacao_fidelidade_Semana,preco_Locacao_regurar_fds, preco_Locacao_fidelidade_Fds)
+String sem split = 210 150 200 90
+
+Posicao 0 do vetor = 210
+Posicao 1 do vetor = 150
+Posicao 2 do vetor = 200
+Posicao 3 do vetor = 90
+String sem split = 530 150 200 90
+
+Posicao 0 do vetor = 530
+Posicao 1 do vetor = 150
+Posicao 2 do vetor = 200
+Posicao 3 do vetor = 90
+String sem split = 630 580 600 590
+
+Posicao 0 do vetor = 630
+Posicao 1 do vetor = 580
+Posicao 2 do vetor = 600
+Posicao 3 do vetor = 590
+---------------
+DATAS
+String sem split = seg ter qua qui sex sab dom 
+
+Posicao 0 do vetor = seg
+Posicao 1 do vetor = ter
+Posicao 2 do vetor = qua
+Posicao 3 do vetor = qui
+Posicao 4 do vetor = sex
+Posicao 5 do vetor = sab
+Posicao 6 do vetor = dom
+---------------
+CARROS
+String sem split = ferrari, WestCar, disponivel
+
+Posicao 0 do vetor = ferrari,
+Posicao 1 do vetor = WestCar,
+Posicao 2 do vetor = disponivel
+String sem split = mustang, WestCar, disponivel
+
+Posicao 0 do vetor = mustang,
+Posicao 1 do vetor = WestCar,
+Posicao 2 do vetor = disponivel
+---------------

@@ -1,0 +1,66 @@
+
+locadora (nome_Locadora preco_Locacao_regurar_Semana, preco_Locacao_fidelidade_Semana,preco_Locacao_regurar_fds, preco_Locacao_fidelidade_Fds)
+
+2 SouthCar, 210, 150, 200, 90
+4 WestCar ,530, 150, 200, 90
+7 NorthCar,630, 580, 600, 590
+
+
+com base na quantidade ja saberemos  o tipo de veiculo  e  locadora
+
+
+
+temos que saber o dia
+
+Data (tipo_dia)
+
+seg
+ter
+qua
+qui
+sex
+sab
+dom 
+
+
+
+carro(marca_Carro, nome_Locadora, status_Locacao)
+
+ 
+ferrari, WestCar, disponivel
+
+
+
+compactos, esportivos e SUV’s
+quantidade_Passageiros 4, 2 e 7
+nome_Locadora
+status_Locacao indisponivel e disponivel)
+
+
+consultar  e se locar gravar data e marcar insponivel**********
+
+
+String SouthCar = 210 150 200 90  
+String WestCar =530 150 200 90
+String NorthCar = 630 580 600 590  
+  
+String data = seg ter qua qui sex sab dom 
+
+String carro1 = ferrari, WestCar, disponivel
+
+String carro2 = mustang, WestCar, disponivel
+
+seg
+
+quantidade de lugares  
+
+2
+
+locadoras
+
+lista mais barato
+if carros dispponiveis  e o nome da locadora 
+
+vetor 1 
+
+if[i]<[i+2] 

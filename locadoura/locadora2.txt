@@ -1,0 +1,7 @@
+=======================================
+Marca: ferrari
+Tipo de carro: esport
+Quantidade de passageiros: 2
+Nome da locadora: west
+Status: null
+=======================================

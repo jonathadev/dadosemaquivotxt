@@ -1,0 +1,138 @@
+A introdução do formato:
+
+<TIPO_CARRO>:QUANTIDADE_PASSAGEIROS>:<DATA1>,<DATA2>,<DATA3>,...
+
+
+
+? SouthCar disponibiliza carros compactos tem taxas de segunda a sexta como R$ 210/dia
+para cliente regular 
+
+e R$ 150/dia para clientes cartão fidelidade. 
+
+
+As taxas de fim de semana são R$200/dia para cliente regular 
+
+e R$ 90/dia para um cliente cartão fidelidade.
+
+
+
+
+? WestCar disponibiliza carros esportivos tem taxas de segunda a sexta como R$ 530/dia
+para cliente regular 
+
+e R$ 150/dia para clientes cartão fidelidade. 
+
+As taxas de fim de semana são R$200/dia para cliente regular 
+
+e R$ 90/dia para um cliente cartão fidelidade.
+
+
+
+? NorthCar disponibiliza SUV’s tem taxas de segunda a sexta como R$ 630/dia para cliente
+regular 
+
+e R$ 580/dia para clientes cartão fidelidade. 
+
+As taxas de fim de semana são R$600/dia para cliente regular 
+
+e R$ 590/dia para um cliente cartão fidelidade.
+
+Para carros compactos o limite de pessoas é 4, para carros esportivos, o limite é 2 e para
+suv’s é 7.
+
+Escreva um programa para ajudar um cliente a encontrar um carro mais barato de acordo
+com a quantidade de pessoas para o carro.
+
+A entrada para o programa será um intervalo de datas para um cliente regular 
+e a quantidade de passageiros desejada. 
+
+
+A saída deve ser o carro mais barato disponível. // mostras os dois valores para cliente regular e fidelidade
+
+
+
+carro
+nome_Carro
+tipo_Carro  compactos, esportivos e SUV’s
+quantidade_Passageiros 4, 2 e 7
+nome_Locadora
+status_Locacao indisponivel e disponivel
+
+locadora 
+nome_Locadora SouthCar, WestCar e SouthCar
+preco_Locacao_regurar_Semana
+preco_Locacao_regurar_fds
+preco_Locacao_fidelidade_Semana
+preco_Locacao_fidelidade_Fds
+
+
+data_locacao
+tipo_Dia dia normais ou finais de semana //por data e ja o dia da semana
+data 16Mar2009(seg), 17Mar2009(ter), 18Mar2009(qua)
+
+
+
+locacao
+nome_Cliente
+data_locacado
+data_limite
+status_pagamento
+
+
+
+cliente
+nome_Cliente
+tipo_cliente
+
+Digite as datas para um cliente regular
+
+16Mar2009(seg), 17Mar2009(ter), 18Mar2009(qua)
+
+
+data e verificar
+
+seg
+ter
+qua
+qui
+sex
+
+sab
+dom 
+
+
+
+
+
+Digite  a quantidade de passageiros desejada.
+
+if(2)
+compactos
+4
+esportivos
+7
+SUV’s
+
+
+tipo_Carro = o tipo
+
+
+
+
+
+A saída deve ser o carro mais barato disponível.
+
+
+OUTPUT: FERRARI: WestCar
+
+comparar 
+
+carro
+tipo_carro
+preço
+disponivel
+
+
+
+
+
